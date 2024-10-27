@@ -1,0 +1,25 @@
+{
+  "name": "opfs-logger",
+  "version": "0.0.1",
+  "description": "The OPFSLogger is a simple logging utility that writes log messages to a file in the browser using the OPFS storage system. It supports different log levels and timestamps each log entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vyshnavpk/opfs-logger.git"
+  },
+  "keywords": [
+    "opfs-logger",
+    "logger",
+    "log",
+    "opfs"
+  ],
+  "author": "vyshnav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vyshnavpk/opfs-logger/issues"
+  },
+  "homepage": "https://github.com/Vyshnavpk/opfs-logger#readme"
+}
